@@ -32,8 +32,9 @@ My avatar depicts the structure of a [classic document-based web layout](https:/
 
 ---
 
-#### 💼 Experience  
-- **Senior Lead Software Engineer**, Penske Media Corp (2022–Present)  
+#### 💼 Experience
+- **Senior Full-Stack Developer**, Rehab Media Group (2025-Present)
+- **Senior Lead Software Engineer**, Penske Media Corp (2022–2025)  
 - **Front End Developer**, skinnyCorp (2021–2022)  
 - **Senior UX Developer**, Alley (2017–2021)  
 - **Front End Web Developer**, Onion, Inc (2012–2017)  
