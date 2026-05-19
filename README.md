@@ -8,7 +8,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/154386?s=400&u=76a8b68f333a6bcd0e3896b82dd0fcb232da290f&v=4" alt="Shawn's avatar" width="80" align="left" style="margin-right: 12px;" />
 
-My avatar depicts the structure of a [classic document-based web layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents): header, nav, sidebar, content, footer. It's a nod to a layout that’s been in use for 30+ years because it matches how people naturally expect to find and navigate information. Tools and frameworks come and go, but our sense of layout on the web has stayed weirdly consistent.  
+My avatar depicts the structure of a [classic document-based web layout](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Structuring_documents): header, nav, sidebar, content, footer. 
 <br clear="left" />
 
 ---
